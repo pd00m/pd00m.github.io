@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philipp Dombrink</title>
+    <link>http://pd00m.github.io/</link>
+    <description>Recent content on Philipp Dombrink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 May 2021 20:56:24 +0200</lastBuildDate><atom:link href="http://pd00m.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>http://pd00m.github.io/posts/first_post/</link>
+      <pubDate>Tue, 04 May 2021 20:56:24 +0200</pubDate>
+      
+      <guid>http://pd00m.github.io/posts/first_post/</guid>
+      <description>discord-csgo-bot 🔗A simple discord bot for getting the status of a CSGO server via command
+Installing 🔗python3 -m venv env source env/bin/activate pip3 install -r requirements.txt Configuration 🔗You will need to create a file named config.json in the base directory.
+server_ip: server ip
+server_port: server port
+custom_thumb: custom thumbnail path for the server status embed, leave empty if you don&amp;rsquo;t want it
+token: your discord api token
+command_prefix: command prefix.</description>
+    </item>
+    
+  </channel>
+</rss>
